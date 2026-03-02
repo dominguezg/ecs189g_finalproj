@@ -18,3 +18,6 @@
 ## Analysis
 - Analysis of results from experiments
 
+# Source
+[Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) (Gabriel et al., Findings 2024)
+
